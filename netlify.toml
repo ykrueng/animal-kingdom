@@ -8,6 +8,6 @@ ID = "5bc7a4cd-c94e-425c-a89f-5691e58e6573"
   base    = "/"
   # NOTE: This is where we will look for package.json/.nvmrc/etc, not root.
   # This is the directory that you are publishing from (relative to root of your repo)
-  publish = "/build/"
+  publish = "/"
   # This will be your default build command
   command = "npm build"
